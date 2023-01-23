@@ -7,7 +7,7 @@ except ImportError:
         DATABASE_URL = [str, ""]
         API_HASH = [str, "f6b17fc26d3b111dfc55277ae33403c8"]
         API_ID = [int, 20027089]
-        BOT_TOKEN = [str, "bot:token here"]
+        BOT_TOKEN = [str, "5850079353:AAEtzh4eVgxOhgITUNKgUxVy0J9zo4U_oZA"]
         COMPLETED_STR = [str, "▰"]
         REMAINING_STR = [str, "▱"]
         MAX_QUEUE_SIZE = [int, 5]

@@ -5,8 +5,8 @@ try:
 except ImportError:
     class Config:
         DATABASE_URL = [str, ""]
-        API_HASH = [str, "abcdedf......"]
-        API_ID = [int, 1234567]
+        API_HASH = [str, "f6b17fc26d3b111dfc55277ae33403c8"]
+        API_ID = [int, 20027089]
         BOT_TOKEN = [str, "bot:token here"]
         COMPLETED_STR = [str, "▰"]
         REMAINING_STR = [str, "▱"]
